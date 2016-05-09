@@ -5,7 +5,7 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Jason Teitelman # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -18,21 +18,21 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "jason@mailmarketingfla.com"
   behance:
   bitbucket:
   dribbble: 
   facebook: 
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "jasonMadeSomething"
   google_plus:
   instagram: 
   linkedin:  # Full URL
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
-  steam:
+  stack_exchange: "http://stackexchange.com/users/5955032/soviet-jesus"
+  steam: 
   tumblr:
   twitter: 
   wordpress:
