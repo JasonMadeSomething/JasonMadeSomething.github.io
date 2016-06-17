@@ -5,16 +5,16 @@ url: "http://JasonMadeSomething.github.io" # the base hostname & protocol for yo
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Jason Teitelman
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Jason Teitelman 
+  description: "Jason Teitelman's Programming Portfolio" 
 
   # Header and footer text
   header_text: >
-     <h1>Obligatory Online Presence</h1>
+     <h1>I would rather be coding</h1>
      <p>I'm a neophyte programmer itching to solve problems.</p>
   header_text_feature_image: 
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Shamelessly powered by <a href="http://jekyllrb.com">Jekyll</a> and made with the Kami template.
 
   # Icons
   rss: false
