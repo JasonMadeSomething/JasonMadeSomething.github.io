@@ -8,7 +8,7 @@ short-description: Bloc Pong is a pong replica created using javascript and the 
 
 ## Summary
 
-Bloc pong was an assignment I chose to do for my Bloc.io Frontend course. It uses javascript and the HTML5 canvas element for all the animation and game logic. This project provided me with my first opportunity to write a complex javascript program that didn't rely on frameworks to exist and provide core functionality.
+Bloc pong was an assignment I chose to do for my Bloc.io Frontend course. It uses javascript and the HTML5 canvas element for all the animation and game logic. This project provided me with my first opportunity to write a complex javascript program that didn't rely on frameworks to exist and provide core functionality. A playable demo can be found [here](/portfolio/BlocPong/Demo)
 
 ## Explanation
 
