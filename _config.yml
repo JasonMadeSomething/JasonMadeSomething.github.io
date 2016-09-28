@@ -5,7 +5,7 @@ url: "http://JasonMadeSomething.github.io" # the base hostname & protocol for yo
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Jason Teitelman 
+  title: "Jason Teitelman" 
   description: "Jason Teitelman's Programming Portfolio" 
 
   # Header and footer text
