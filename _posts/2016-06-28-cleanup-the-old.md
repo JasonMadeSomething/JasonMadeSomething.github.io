@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Everything is always broken forever
-
 ---
 
 ### Just a few months
